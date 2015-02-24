@@ -1,0 +1,1118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<progress-reports type="array">
+  <progress-report>
+    <accepted-at type="datetime" nil="true"/>
+    <administrative></administrative>
+    <alt-contact-email>wolf.c@portseattle.org</alt-contact-email>
+    <alt-contact-first-name>Christine </alt-contact-first-name>
+    <alt-contact-last-name>Wolf</alt-contact-last-name>
+    <alt-contact-phone>206-7873458</alt-contact-phone>
+    <alt-contact-title>Seaport Transportation Program Planner</alt-contact-title>
+    <construction-complete type="boolean">false</construction-complete>
+    <construction-complete-on type="date">2015-04-30</construction-complete-on>
+    <construction-obligation-na type="boolean">false</construction-obligation-na>
+    <construction-obligation-on type="date" nil="true"/>
+    <construction-remaining-work-to-completion nil="true"/>
+    <contact-email>poor.g@portseattle.org</contact-email>
+    <contact-first-name>Geri</contact-first-name>
+    <contact-last-name>Poor</contact-last-name>
+    <contact-phone>206-787-3778</contact-phone>
+    <contact-title>Regional Transpo Manager</contact-title>
+    <contract-awarded type="boolean" nil="true"/>
+    <contract-awarded-on type="date" nil="true"/>
+    <created-at type="datetime">2015-02-20T18:56:22-08:00</created-at>
+    <delays nil="true"/>
+    <design-status type="integer" nil="true"/>
+    <environmental-approval type="boolean" nil="true"/>
+    <environmental-approval-on type="date" nil="true"/>
+    <estimate-changing type="boolean">false</estimate-changing>
+    <id type="integer">940</id>
+    <last-bill-submitted-na type="boolean">false</last-bill-submitted-na>
+    <last-bill-submitted-on type="date">2015-02-11</last-bill-submitted-on>
+    <next-bill-submittal-na type="boolean">true</next-bill-submittal-na>
+    <next-bill-submittal-on type="date" nil="true"/>
+    <on-schedule type="boolean">true</on-schedule>
+    <other-obligation-na type="boolean">false</other-obligation-na>
+    <other-obligation-on type="date" nil="true"/>
+    <pe-complete type="boolean" nil="true"/>
+    <pe-complete-on type="date" nil="true"/>
+    <pe-obligation-na type="boolean">false</pe-obligation-na>
+    <pe-obligation-on type="date" nil="true"/>
+    <pe-remaining-work-to-completion nil="true"/>
+    <permits-and-agreements type="boolean" nil="true"/>
+    <permits-and-agreements-on type="date" nil="true"/>
+    <planning-funds-obligation-on type="date">2013-08-05</planning-funds-obligation-on>
+    <progress nil="true"/>
+    <project-advertised type="boolean" nil="true"/>
+    <project-advertised-on type="date" nil="true"/>
+    <project-type>stand_alone</project-type>
+    <row-certification type="boolean" nil="true"/>
+    <row-certification-on type="date" nil="true"/>
+    <row-obligation-na type="boolean">false</row-obligation-na>
+    <row-obligation-on type="date" nil="true"/>
+    <row-remaining-work-to-completion nil="true"/>
+    <sponsoring-agency-id type="integer">80</sponsoring-agency-id>
+    <stand-alone-remaining-work-to-completion>The consultant has completed the contract.  The City of Seattle is finalizing and holding public reviews.</stand-alone-remaining-work-to-completion>
+    <status>submitted</status>
+    <submitted-at type="datetime">2015-02-20T19:01:19-08:00</submitted-at>
+    <tip-id>PS-11</tip-id>
+    <title>Seattle Industrial Area Freight Access Project</title>
+    <updated-at type="datetime">2015-02-20T19:01:19-08:00</updated-at>
+    <updated-estimate type="decimal" nil="true"/>
+    <user-id type="integer">91</user-id>
+  </progress-report>
+  <progress-report>
+    <accepted-at type="datetime" nil="true"/>
+    <administrative>Work on reviewing advance ROW acquisitions was not reimbursable per Local Agency
+Agreement #LA 8394. Same with consultant RFQ advertisements since those expenses were
+incurred prior to the obligation date of 5/2/2014. Reimbursement of consultant expenditures will take place quarterly as billings will be submitted to the City shortly. Total design phase cost is expected to increase by about $150,000 due to the need to identify the best route following environmental review of sensitive areas and public comment. This cost does not include additional right-of-way acquisitions. The City will fund all cost overages of the design phase.</administrative>
+    <alt-contact-email></alt-contact-email>
+    <alt-contact-first-name></alt-contact-first-name>
+    <alt-contact-last-name></alt-contact-last-name>
+    <alt-contact-phone></alt-contact-phone>
+    <alt-contact-title></alt-contact-title>
+    <construction-complete type="boolean">false</construction-complete>
+    <construction-complete-on type="date">2018-12-31</construction-complete-on>
+    <construction-obligation-na type="boolean">true</construction-obligation-na>
+    <construction-obligation-on type="date" nil="true"/>
+    <construction-remaining-work-to-completion>This grant project does not include funds for construction, hence no Federal funds obligation.</construction-remaining-work-to-completion>
+    <contact-email>leafg@ci.bonney-lake.wa.us</contact-email>
+    <contact-first-name>Gary</contact-first-name>
+    <contact-last-name>Leaf</contact-last-name>
+    <contact-phone>(253) 447-3282</contact-phone>
+    <contact-title>Facilities &amp; projects Manager</contact-title>
+    <contract-awarded type="boolean" nil="true"/>
+    <contract-awarded-on type="date" nil="true"/>
+    <created-at type="datetime">2015-02-20T16:58:51-08:00</created-at>
+    <delays nil="true"/>
+    <design-status type="integer">0</design-status>
+    <environmental-approval type="boolean">false</environmental-approval>
+    <environmental-approval-on type="date">2015-12-31</environmental-approval-on>
+    <estimate-changing type="boolean">true</estimate-changing>
+    <id type="integer">939</id>
+    <last-bill-submitted-na type="boolean">true</last-bill-submitted-na>
+    <last-bill-submitted-on type="date" nil="true"/>
+    <next-bill-submittal-na type="boolean">false</next-bill-submittal-na>
+    <next-bill-submittal-on type="date">2015-04-15</next-bill-submittal-on>
+    <on-schedule type="boolean">false</on-schedule>
+    <other-obligation-na type="boolean">false</other-obligation-na>
+    <other-obligation-on type="date" nil="true"/>
+    <pe-complete type="boolean">false</pe-complete>
+    <pe-complete-on type="date">2016-12-31</pe-complete-on>
+    <pe-obligation-na type="boolean">false</pe-obligation-na>
+    <pe-obligation-on type="date">2014-05-02</pe-obligation-on>
+    <pe-remaining-work-to-completion>There was some delay due to WSDOT recommending an initial review of all advance real estate acquisitions (and their likelihood of eventually achieving successful ROW certification) prior to commencing design. That ROW review is complete. The City is now under contract with a consultant (Parametrix) to begin initial design by evaluating alternate routes and selecting the preferred one; this will be complete by 7/31/2015. The second step will be to complete 60% design and NEPA. The third and final step will be to acquire ROW (outside scope of grant) and complete the final design. Pre-design phase is expected to be complete by 12/31/2016.</pe-remaining-work-to-completion>
+    <permits-and-agreements type="boolean">false</permits-and-agreements>
+    <permits-and-agreements-on type="date">2016-12-31</permits-and-agreements-on>
+    <planning-funds-obligation-on type="date" nil="true"/>
+    <progress nil="true"/>
+    <project-advertised type="boolean" nil="true"/>
+    <project-advertised-on type="date" nil="true"/>
+    <project-type>capital_project</project-type>
+    <row-certification type="boolean">false</row-certification>
+    <row-certification-on type="date">2015-12-31</row-certification-on>
+    <row-obligation-na type="boolean">true</row-obligation-na>
+    <row-obligation-on type="date" nil="true"/>
+    <row-remaining-work-to-completion>First, the preferred trail alignment must be selected (target date 7/31/2015). Once the preferred alignment has been selected, the next step will be to complete a 60% design, NEPA, and ROW plans.  That target date is 12/31/2015.  This grant project does not include any funds for ROW acquisition, hence no Federal funds obligation.</row-remaining-work-to-completion>
+    <sponsoring-agency-id type="integer">9</sponsoring-agency-id>
+    <stand-alone-remaining-work-to-completion nil="true"/>
+    <status>submitted</status>
+    <submitted-at type="datetime">2015-02-20T17:19:26-08:00</submitted-at>
+    <tip-id>BON-14</tip-id>
+    <title>Fennel Creek Trail - Segment 2</title>
+    <updated-at type="datetime">2015-02-20T17:19:26-08:00</updated-at>
+    <updated-estimate type="decimal">500000.0</updated-estimate>
+    <user-id type="integer">15</user-id>
+  </progress-report>
+  <progress-report>
+    <accepted-at type="datetime" nil="true"/>
+    <administrative></administrative>
+    <alt-contact-email>jeffda@kitsaptransit.com</alt-contact-email>
+    <alt-contact-first-name>Jeff</alt-contact-first-name>
+    <alt-contact-last-name>Davidson</alt-contact-last-name>
+    <alt-contact-phone>360-824-4941</alt-contact-phone>
+    <alt-contact-title>Grants &amp; Compliance Coordinator</alt-contact-title>
+    <construction-complete type="boolean">false</construction-complete>
+    <construction-complete-on type="date">2015-12-01</construction-complete-on>
+    <construction-obligation-na type="boolean">false</construction-obligation-na>
+    <construction-obligation-on type="date">2015-06-01</construction-obligation-on>
+    <construction-remaining-work-to-completion>The BTC security enhancement was approved January 2015. We await transfer of funds to FTA to begin this project. The BTC ferry dock enhancements are nearing completion, including ADA and pedestrian enhancements.</construction-remaining-work-to-completion>
+    <contact-email>angiev@kitsaptransit.com</contact-email>
+    <contact-first-name>Angie</contact-first-name>
+    <contact-last-name>Venturato</contact-last-name>
+    <contact-phone>360-824-4905</contact-phone>
+    <contact-title>Capital Development Associate</contact-title>
+    <contract-awarded type="boolean" nil="true"/>
+    <contract-awarded-on type="date" nil="true"/>
+    <created-at type="datetime">2015-02-20T16:12:41-08:00</created-at>
+    <delays nil="true"/>
+    <design-status type="integer">0</design-status>
+    <environmental-approval type="boolean">true</environmental-approval>
+    <environmental-approval-on type="date">2014-05-07</environmental-approval-on>
+    <estimate-changing type="boolean">false</estimate-changing>
+    <id type="integer">937</id>
+    <last-bill-submitted-na type="boolean">false</last-bill-submitted-na>
+    <last-bill-submitted-on type="date">2015-02-18</last-bill-submitted-on>
+    <next-bill-submittal-na type="boolean">false</next-bill-submittal-na>
+    <next-bill-submittal-on type="date">2015-04-15</next-bill-submittal-on>
+    <on-schedule type="boolean">true</on-schedule>
+    <other-obligation-na type="boolean">false</other-obligation-na>
+    <other-obligation-on type="date" nil="true"/>
+    <pe-complete type="boolean" nil="true"/>
+    <pe-complete-on type="date" nil="true"/>
+    <pe-obligation-na type="boolean">true</pe-obligation-na>
+    <pe-obligation-on type="date" nil="true"/>
+    <pe-remaining-work-to-completion></pe-remaining-work-to-completion>
+    <permits-and-agreements type="boolean" nil="true"/>
+    <permits-and-agreements-on type="date" nil="true"/>
+    <planning-funds-obligation-on type="date" nil="true"/>
+    <progress nil="true"/>
+    <project-advertised type="boolean" nil="true"/>
+    <project-advertised-on type="date" nil="true"/>
+    <project-type>capital_project</project-type>
+    <row-certification type="boolean" nil="true"/>
+    <row-certification-on type="date" nil="true"/>
+    <row-obligation-na type="boolean">true</row-obligation-na>
+    <row-obligation-on type="date" nil="true"/>
+    <row-remaining-work-to-completion></row-remaining-work-to-completion>
+    <sponsoring-agency-id type="integer">53</sponsoring-agency-id>
+    <stand-alone-remaining-work-to-completion nil="true"/>
+    <status>submitted</status>
+    <submitted-at type="datetime">2015-02-20T16:17:09-08:00</submitted-at>
+    <tip-id>KT-8</tip-id>
+    <title>Bremerton Transportation Center Phase A/B/C/D</title>
+    <updated-at type="datetime">2015-02-20T16:17:09-08:00</updated-at>
+    <updated-estimate type="decimal" nil="true"/>
+    <user-id type="integer">57</user-id>
+  </progress-report>
+  <progress-report>
+    <accepted-at type="datetime" nil="true"/>
+    <administrative></administrative>
+    <alt-contact-email>jeffda@kitsaptransit.com</alt-contact-email>
+    <alt-contact-first-name>Jeff</alt-contact-first-name>
+    <alt-contact-last-name>Davidson</alt-contact-last-name>
+    <alt-contact-phone>360-824-4941</alt-contact-phone>
+    <alt-contact-title>Grants &amp; Compliance Coordinator</alt-contact-title>
+    <construction-complete type="boolean">false</construction-complete>
+    <construction-complete-on type="date">2017-07-01</construction-complete-on>
+    <construction-obligation-na type="boolean">false</construction-obligation-na>
+    <construction-obligation-on type="date">2015-06-01</construction-obligation-on>
+    <construction-remaining-work-to-completion>Phase 2 of the POF plan is under negotiation. Construction of the spare vessel is expected to begin in the later half of 2015. </construction-remaining-work-to-completion>
+    <contact-email>angiev@kitsaptransit.com</contact-email>
+    <contact-first-name>Angie</contact-first-name>
+    <contact-last-name>Venturato</contact-last-name>
+    <contact-phone>360-824-4905</contact-phone>
+    <contact-title>Capital Development Associate</contact-title>
+    <contract-awarded type="boolean" nil="true"/>
+    <contract-awarded-on type="date" nil="true"/>
+    <created-at type="datetime">2015-02-20T15:54:37-08:00</created-at>
+    <delays nil="true"/>
+    <design-status type="integer">10</design-status>
+    <environmental-approval type="boolean">true</environmental-approval>
+    <environmental-approval-on type="date">2014-05-07</environmental-approval-on>
+    <estimate-changing type="boolean">false</estimate-changing>
+    <id type="integer">935</id>
+    <last-bill-submitted-na type="boolean">false</last-bill-submitted-na>
+    <last-bill-submitted-on type="date">2014-11-25</last-bill-submitted-on>
+    <next-bill-submittal-na type="boolean">false</next-bill-submittal-na>
+    <next-bill-submittal-on type="date">2015-04-15</next-bill-submittal-on>
+    <on-schedule type="boolean">false</on-schedule>
+    <other-obligation-na type="boolean">false</other-obligation-na>
+    <other-obligation-on type="date" nil="true"/>
+    <pe-complete type="boolean">false</pe-complete>
+    <pe-complete-on type="date">2015-12-01</pe-complete-on>
+    <pe-obligation-na type="boolean">false</pe-obligation-na>
+    <pe-obligation-on type="date">2015-01-01</pe-obligation-on>
+    <pe-remaining-work-to-completion>Phase 2 of the POF Plan has been delayed due to a delay in obtaining FTA concurrence for the project. This phase is under negotiation for full funding.
+
+Preliminary design of the additional vessel to support local Bremerton to Port Orchard service is complete. Bidding for a final design and construction bid package consultant started February 12, 2015.</pe-remaining-work-to-completion>
+    <permits-and-agreements type="boolean" nil="true"/>
+    <permits-and-agreements-on type="date" nil="true"/>
+    <planning-funds-obligation-on type="date" nil="true"/>
+    <progress nil="true"/>
+    <project-advertised type="boolean" nil="true"/>
+    <project-advertised-on type="date" nil="true"/>
+    <project-type>capital_project</project-type>
+    <row-certification type="boolean" nil="true"/>
+    <row-certification-on type="date" nil="true"/>
+    <row-obligation-na type="boolean">true</row-obligation-na>
+    <row-obligation-on type="date" nil="true"/>
+    <row-remaining-work-to-completion></row-remaining-work-to-completion>
+    <sponsoring-agency-id type="integer">53</sponsoring-agency-id>
+    <stand-alone-remaining-work-to-completion nil="true"/>
+    <status>submitted</status>
+    <submitted-at type="datetime">2015-02-20T16:10:58-08:00</submitted-at>
+    <tip-id>KT-6</tip-id>
+    <title>Small Passenger Only Vessels</title>
+    <updated-at type="datetime">2015-02-20T16:10:58-08:00</updated-at>
+    <updated-estimate type="decimal" nil="true"/>
+    <user-id type="integer">57</user-id>
+  </progress-report>
+  <progress-report>
+    <accepted-at type="datetime" nil="true"/>
+    <administrative>Project has been closed out.</administrative>
+    <alt-contact-email></alt-contact-email>
+    <alt-contact-first-name></alt-contact-first-name>
+    <alt-contact-last-name></alt-contact-last-name>
+    <alt-contact-phone></alt-contact-phone>
+    <alt-contact-title></alt-contact-title>
+    <construction-complete type="boolean">true</construction-complete>
+    <construction-complete-on type="date">2013-11-21</construction-complete-on>
+    <construction-obligation-na type="boolean">false</construction-obligation-na>
+    <construction-obligation-on type="date">2014-01-15</construction-obligation-on>
+    <construction-remaining-work-to-completion></construction-remaining-work-to-completion>
+    <contact-email>jw@ci.bonney-lake.wa.us</contact-email>
+    <contact-first-name>John</contact-first-name>
+    <contact-last-name>Woodcock</contact-last-name>
+    <contact-phone>253-447-4336</contact-phone>
+    <contact-title>City Engineer</contact-title>
+    <contract-awarded type="boolean">true</contract-awarded>
+    <contract-awarded-on type="date">2013-08-27</contract-awarded-on>
+    <created-at type="datetime">2015-02-20T15:51:19-08:00</created-at>
+    <delays nil="true"/>
+    <design-status type="integer">100</design-status>
+    <environmental-approval type="boolean">true</environmental-approval>
+    <environmental-approval-on type="date">2013-05-22</environmental-approval-on>
+    <estimate-changing type="boolean">false</estimate-changing>
+    <id type="integer">933</id>
+    <last-bill-submitted-na type="boolean">false</last-bill-submitted-na>
+    <last-bill-submitted-on type="date">2014-10-15</last-bill-submitted-on>
+    <next-bill-submittal-na type="boolean">false</next-bill-submittal-na>
+    <next-bill-submittal-on type="date">2014-11-06</next-bill-submittal-on>
+    <on-schedule type="boolean">true</on-schedule>
+    <other-obligation-na type="boolean">false</other-obligation-na>
+    <other-obligation-on type="date" nil="true"/>
+    <pe-complete type="boolean">true</pe-complete>
+    <pe-complete-on type="date">2013-07-10</pe-complete-on>
+    <pe-obligation-na type="boolean">false</pe-obligation-na>
+    <pe-obligation-on type="date">2014-01-15</pe-obligation-on>
+    <pe-remaining-work-to-completion></pe-remaining-work-to-completion>
+    <permits-and-agreements type="boolean">true</permits-and-agreements>
+    <permits-and-agreements-on type="date">2013-07-27</permits-and-agreements-on>
+    <planning-funds-obligation-on type="date" nil="true"/>
+    <progress nil="true"/>
+    <project-advertised type="boolean">true</project-advertised>
+    <project-advertised-on type="date">2013-07-31</project-advertised-on>
+    <project-type>capital_project</project-type>
+    <row-certification type="boolean" nil="true"/>
+    <row-certification-on type="date" nil="true"/>
+    <row-obligation-na type="boolean">true</row-obligation-na>
+    <row-obligation-on type="date" nil="true"/>
+    <row-remaining-work-to-completion></row-remaining-work-to-completion>
+    <sponsoring-agency-id type="integer">9</sponsoring-agency-id>
+    <stand-alone-remaining-work-to-completion nil="true"/>
+    <status>submitted</status>
+    <submitted-at type="datetime">2015-02-20T16:12:42-08:00</submitted-at>
+    <tip-id>Bon-10</tip-id>
+    <title>Church Lake Road W &amp; Angeline Road S Overlay </title>
+    <updated-at type="datetime">2015-02-20T16:12:42-08:00</updated-at>
+    <updated-estimate type="decimal">445667.0</updated-estimate>
+    <user-id type="integer">15</user-id>
+  </progress-report>
+  <progress-report>
+    <accepted-at type="datetime" nil="true"/>
+    <administrative></administrative>
+    <alt-contact-email>jeffda@kitsaptransit.com</alt-contact-email>
+    <alt-contact-first-name>Jeff</alt-contact-first-name>
+    <alt-contact-last-name>Davidson</alt-contact-last-name>
+    <alt-contact-phone>360-824-4941</alt-contact-phone>
+    <alt-contact-title>Grants &amp; Compliance Coordinator</alt-contact-title>
+    <construction-complete type="boolean">false</construction-complete>
+    <construction-complete-on type="date">2017-07-01</construction-complete-on>
+    <construction-obligation-na type="boolean">false</construction-obligation-na>
+    <construction-obligation-on type="date">2015-10-01</construction-obligation-on>
+    <construction-remaining-work-to-completion>A construction management contract was awarded 10/21/2014. Construction permits were obtained October-December 2014. The construction contract is under final review with construction expected to begin in late March/early April, weather permitting.</construction-remaining-work-to-completion>
+    <contact-email>angiev@kitsaptransit.com</contact-email>
+    <contact-first-name>Angie</contact-first-name>
+    <contact-last-name>Venturato</contact-last-name>
+    <contact-phone>360-824-4905</contact-phone>
+    <contact-title>Capital Development Associate</contact-title>
+    <contract-awarded type="boolean">true</contract-awarded>
+    <contract-awarded-on type="date">2015-02-28</contract-awarded-on>
+    <created-at type="datetime">2015-02-20T15:43:30-08:00</created-at>
+    <delays nil="true"/>
+    <design-status type="integer">100</design-status>
+    <environmental-approval type="boolean">true</environmental-approval>
+    <environmental-approval-on type="date">2014-11-05</environmental-approval-on>
+    <estimate-changing type="boolean">false</estimate-changing>
+    <id type="integer">932</id>
+    <last-bill-submitted-na type="boolean">false</last-bill-submitted-na>
+    <last-bill-submitted-on type="date">2015-02-18</last-bill-submitted-on>
+    <next-bill-submittal-na type="boolean">false</next-bill-submittal-na>
+    <next-bill-submittal-on type="date">2015-04-15</next-bill-submittal-on>
+    <on-schedule type="boolean">true</on-schedule>
+    <other-obligation-na type="boolean">false</other-obligation-na>
+    <other-obligation-on type="date" nil="true"/>
+    <pe-complete type="boolean">true</pe-complete>
+    <pe-complete-on type="date">2014-12-31</pe-complete-on>
+    <pe-obligation-na type="boolean">true</pe-obligation-na>
+    <pe-obligation-on type="date" nil="true"/>
+    <pe-remaining-work-to-completion>Minor post-construction bid work is being conducted by the design contractor in preparation for construction in March.</pe-remaining-work-to-completion>
+    <permits-and-agreements type="boolean">true</permits-and-agreements>
+    <permits-and-agreements-on type="date">2014-12-31</permits-and-agreements-on>
+    <planning-funds-obligation-on type="date" nil="true"/>
+    <progress nil="true"/>
+    <project-advertised type="boolean">true</project-advertised>
+    <project-advertised-on type="date">2014-12-08</project-advertised-on>
+    <project-type>capital_project</project-type>
+    <row-certification type="boolean" nil="true"/>
+    <row-certification-on type="date" nil="true"/>
+    <row-obligation-na type="boolean">true</row-obligation-na>
+    <row-obligation-on type="date" nil="true"/>
+    <row-remaining-work-to-completion></row-remaining-work-to-completion>
+    <sponsoring-agency-id type="integer">53</sponsoring-agency-id>
+    <stand-alone-remaining-work-to-completion nil="true"/>
+    <status>submitted</status>
+    <submitted-at type="datetime">2015-02-20T15:51:08-08:00</submitted-at>
+    <tip-id>KT-28</tip-id>
+    <title>North Kitsap Base</title>
+    <updated-at type="datetime">2015-02-20T15:51:08-08:00</updated-at>
+    <updated-estimate type="decimal" nil="true"/>
+    <user-id type="integer">57</user-id>
+  </progress-report>
+  <progress-report>
+    <accepted-at type="datetime" nil="true"/>
+    <administrative>Initial bill submittal will occur after FY 2015 5337 HIFG funds are obligated.</administrative>
+    <alt-contact-email>monica.overby@soundtransit.org</alt-contact-email>
+    <alt-contact-first-name>Monica</alt-contact-first-name>
+    <alt-contact-last-name>Overby</alt-contact-last-name>
+    <alt-contact-phone>206-689-4979</alt-contact-phone>
+    <alt-contact-title>Grants Administrator</alt-contact-title>
+    <construction-complete type="boolean">false</construction-complete>
+    <construction-complete-on type="date">2018-12-30</construction-complete-on>
+    <construction-obligation-na type="boolean">false</construction-obligation-na>
+    <construction-obligation-on type="date">2015-09-01</construction-obligation-on>
+    <construction-remaining-work-to-completion>Providing state of good repair/preventative maintenance for Sounder Commuter Rail and Link light rail rolling stock is ongoing and will continue throughout the 2015-2018 TIP timeframe.</construction-remaining-work-to-completion>
+    <contact-email>kirste.johnson@soundtransit.org</contact-email>
+    <contact-first-name>Kirste</contact-first-name>
+    <contact-last-name>Johnson</contact-last-name>
+    <contact-phone>206-398-5402</contact-phone>
+    <contact-title>Grants Specialist</contact-title>
+    <contract-awarded type="boolean" nil="true"/>
+    <contract-awarded-on type="date" nil="true"/>
+    <created-at type="datetime">2015-02-20T15:40:41-08:00</created-at>
+    <delays nil="true"/>
+    <design-status type="integer">0</design-status>
+    <environmental-approval type="boolean">true</environmental-approval>
+    <environmental-approval-on type="date">2015-02-20</environmental-approval-on>
+    <estimate-changing type="boolean">false</estimate-changing>
+    <id type="integer">931</id>
+    <last-bill-submitted-na type="boolean">true</last-bill-submitted-na>
+    <last-bill-submitted-on type="date" nil="true"/>
+    <next-bill-submittal-na type="boolean">false</next-bill-submittal-na>
+    <next-bill-submittal-on type="date">2015-09-30</next-bill-submittal-on>
+    <on-schedule type="boolean">true</on-schedule>
+    <other-obligation-na type="boolean">false</other-obligation-na>
+    <other-obligation-on type="date" nil="true"/>
+    <pe-complete type="boolean" nil="true"/>
+    <pe-complete-on type="date" nil="true"/>
+    <pe-obligation-na type="boolean">true</pe-obligation-na>
+    <pe-obligation-on type="date" nil="true"/>
+    <pe-remaining-work-to-completion>Please note environmental document approval not applicable. This project is a NEPA
+Categorical Exclusion Type 07 because it rehabs rail rolling stock/vehicles within or
+accommodated by existing facilities, that does not result in a change in functional use of the facilities, such as: equipment to be located within existing facilities and with no substantial off-site impacts; and vehicles, including rail cars that can be accommodated by existing facilities or by new facilities that qualify for a categorical exclusion. Was not able to "reintroduce" the N/A box on the form. Input arbitrary date.</pe-remaining-work-to-completion>
+    <permits-and-agreements type="boolean" nil="true"/>
+    <permits-and-agreements-on type="date" nil="true"/>
+    <planning-funds-obligation-on type="date" nil="true"/>
+    <progress nil="true"/>
+    <project-advertised type="boolean" nil="true"/>
+    <project-advertised-on type="date" nil="true"/>
+    <project-type>capital_project</project-type>
+    <row-certification type="boolean" nil="true"/>
+    <row-certification-on type="date" nil="true"/>
+    <row-obligation-na type="boolean">true</row-obligation-na>
+    <row-obligation-on type="date" nil="true"/>
+    <row-remaining-work-to-completion></row-remaining-work-to-completion>
+    <sponsoring-agency-id type="integer">173</sponsoring-agency-id>
+    <stand-alone-remaining-work-to-completion nil="true"/>
+    <status>submitted</status>
+    <submitted-at type="datetime">2015-02-20T17:21:55-08:00</submitted-at>
+    <tip-id>RTA-87</tip-id>
+    <title>Sounder and Link State of Good Repair</title>
+    <updated-at type="datetime">2015-02-20T17:21:55-08:00</updated-at>
+    <updated-estimate type="decimal" nil="true"/>
+    <user-id type="integer">2</user-id>
+  </progress-report>
+  <progress-report>
+    <accepted-at type="datetime" nil="true"/>
+    <administrative>Initial bill submittal will occur after FY 2015 5307 funds are obligated.</administrative>
+    <alt-contact-email>monica.overby@soundtransit.org</alt-contact-email>
+    <alt-contact-first-name>Monica</alt-contact-first-name>
+    <alt-contact-last-name>Overby</alt-contact-last-name>
+    <alt-contact-phone>206-689-4979</alt-contact-phone>
+    <alt-contact-title>Grants Administrator</alt-contact-title>
+    <construction-complete type="boolean">false</construction-complete>
+    <construction-complete-on type="date">2020-09-21</construction-complete-on>
+    <construction-obligation-na type="boolean">true</construction-obligation-na>
+    <construction-obligation-on type="date" nil="true"/>
+    <construction-remaining-work-to-completion></construction-remaining-work-to-completion>
+    <contact-email>kirste.johnson@soundtransit.org</contact-email>
+    <contact-first-name>Kirste</contact-first-name>
+    <contact-last-name>Johnson</contact-last-name>
+    <contact-phone>206-398-5402</contact-phone>
+    <contact-title>Grants Specialist</contact-title>
+    <contract-awarded type="boolean" nil="true"/>
+    <contract-awarded-on type="date" nil="true"/>
+    <created-at type="datetime">2015-02-20T14:46:29-08:00</created-at>
+    <delays nil="true"/>
+    <design-status type="integer">0</design-status>
+    <environmental-approval type="boolean">false</environmental-approval>
+    <environmental-approval-on type="date">2015-10-31</environmental-approval-on>
+    <estimate-changing type="boolean">false</estimate-changing>
+    <id type="integer">925</id>
+    <last-bill-submitted-na type="boolean">true</last-bill-submitted-na>
+    <last-bill-submitted-on type="date" nil="true"/>
+    <next-bill-submittal-na type="boolean">false</next-bill-submittal-na>
+    <next-bill-submittal-on type="date">2015-09-30</next-bill-submittal-on>
+    <on-schedule type="boolean">true</on-schedule>
+    <other-obligation-na type="boolean">false</other-obligation-na>
+    <other-obligation-on type="date" nil="true"/>
+    <pe-complete type="boolean">false</pe-complete>
+    <pe-complete-on type="date">2016-09-01</pe-complete-on>
+    <pe-obligation-na type="boolean">false</pe-obligation-na>
+    <pe-obligation-on type="date">2015-06-01</pe-obligation-on>
+    <pe-remaining-work-to-completion>FTA is expected to issue its Record of Decision on the project during the fall of 2015. Commpleting design of the facility and determining construction methods will follow.</pe-remaining-work-to-completion>
+    <permits-and-agreements type="boolean" nil="true"/>
+    <permits-and-agreements-on type="date" nil="true"/>
+    <planning-funds-obligation-on type="date" nil="true"/>
+    <progress nil="true"/>
+    <project-advertised type="boolean" nil="true"/>
+    <project-advertised-on type="date" nil="true"/>
+    <project-type>capital_project</project-type>
+    <row-certification type="boolean" nil="true"/>
+    <row-certification-on type="date" nil="true"/>
+    <row-obligation-na type="boolean">true</row-obligation-na>
+    <row-obligation-on type="date" nil="true"/>
+    <row-remaining-work-to-completion></row-remaining-work-to-completion>
+    <sponsoring-agency-id type="integer">173</sponsoring-agency-id>
+    <stand-alone-remaining-work-to-completion nil="true"/>
+    <status>submitted</status>
+    <submitted-at type="datetime">2015-02-20T17:21:42-08:00</submitted-at>
+    <tip-id>RTA-85</tip-id>
+    <title>Link Operations and Maintenance Satellite Facility</title>
+    <updated-at type="datetime">2015-02-20T17:21:42-08:00</updated-at>
+    <updated-estimate type="decimal" nil="true"/>
+    <user-id type="integer">2</user-id>
+  </progress-report>
+  <progress-report>
+    <accepted-at type="datetime" nil="true"/>
+    <administrative>Initial bill submittal will occur after FY 2015 5307 funds are obligated.</administrative>
+    <alt-contact-email>monica.overby@soundtransit.org</alt-contact-email>
+    <alt-contact-first-name>Monica</alt-contact-first-name>
+    <alt-contact-last-name>Overby</alt-contact-last-name>
+    <alt-contact-phone>206-689-4979</alt-contact-phone>
+    <alt-contact-title>Grants Administrator</alt-contact-title>
+    <construction-complete type="boolean">false</construction-complete>
+    <construction-complete-on type="date">2017-12-30</construction-complete-on>
+    <construction-obligation-na type="boolean">false</construction-obligation-na>
+    <construction-obligation-on type="date">2015-06-01</construction-obligation-on>
+    <construction-remaining-work-to-completion>This project is for the design and construction of additional track and new structures along an approximately 0.65 mile section of track between the existing Tacoma Dome Station and the vicinity of M Street in Tacoma. A Documented Categorical Exclusion (DCE) was reviewed and approved by the FTA on April 14, 2014. Conceptual engineering was completed spring 2014 and the project is currently in the preliminary engineering phase. An award for construction management services was issued 12/23/2014. The contract award for construction is estimated to be completed on 11/29/2015.</construction-remaining-work-to-completion>
+    <contact-email>kirste.johnson@soundtransit.org</contact-email>
+    <contact-first-name>Kirste</contact-first-name>
+    <contact-last-name>Johnson</contact-last-name>
+    <contact-phone>206-398-5402</contact-phone>
+    <contact-title>Grants Specialist</contact-title>
+    <contract-awarded type="boolean">false</contract-awarded>
+    <contract-awarded-on type="date">2015-11-29</contract-awarded-on>
+    <created-at type="datetime">2015-02-20T12:25:59-08:00</created-at>
+    <delays nil="true"/>
+    <design-status type="integer">40</design-status>
+    <environmental-approval type="boolean">true</environmental-approval>
+    <environmental-approval-on type="date">2014-04-14</environmental-approval-on>
+    <estimate-changing type="boolean">false</estimate-changing>
+    <id type="integer">916</id>
+    <last-bill-submitted-na type="boolean">true</last-bill-submitted-na>
+    <last-bill-submitted-on type="date" nil="true"/>
+    <next-bill-submittal-na type="boolean">false</next-bill-submittal-na>
+    <next-bill-submittal-on type="date">2015-09-30</next-bill-submittal-on>
+    <on-schedule type="boolean">true</on-schedule>
+    <other-obligation-na type="boolean">false</other-obligation-na>
+    <other-obligation-on type="date" nil="true"/>
+    <pe-complete type="boolean">true</pe-complete>
+    <pe-complete-on type="date">2014-10-01</pe-complete-on>
+    <pe-obligation-na type="boolean">true</pe-obligation-na>
+    <pe-obligation-on type="date" nil="true"/>
+    <pe-remaining-work-to-completion></pe-remaining-work-to-completion>
+    <permits-and-agreements type="boolean">false</permits-and-agreements>
+    <permits-and-agreements-on type="date">2015-12-31</permits-and-agreements-on>
+    <planning-funds-obligation-on type="date" nil="true"/>
+    <progress nil="true"/>
+    <project-advertised type="boolean">false</project-advertised>
+    <project-advertised-on type="date">2015-07-31</project-advertised-on>
+    <project-type>capital_project</project-type>
+    <row-certification type="boolean">false</row-certification>
+    <row-certification-on type="date">2015-09-22</row-certification-on>
+    <row-obligation-na type="boolean">true</row-obligation-na>
+    <row-obligation-on type="date" nil="true"/>
+    <row-remaining-work-to-completion>ROW appraisals continue and offers transmitted. </row-remaining-work-to-completion>
+    <sponsoring-agency-id type="integer">173</sponsoring-agency-id>
+    <stand-alone-remaining-work-to-completion nil="true"/>
+    <status>submitted</status>
+    <submitted-at type="datetime">2015-02-20T17:21:24-08:00</submitted-at>
+    <tip-id>RTA-84</tip-id>
+    <title>Tacoma Trestle Track &amp; Signal</title>
+    <updated-at type="datetime">2015-02-20T17:21:24-08:00</updated-at>
+    <updated-estimate type="decimal" nil="true"/>
+    <user-id type="integer">2</user-id>
+  </progress-report>
+  <progress-report>
+    <accepted-at type="datetime" nil="true"/>
+    <administrative>Updated total estimated project cost comes from ST 2015 TIP:
+http://www.soundtransit.org/Documents/pdf/about/financial/20140925_Proposed%202015_TIP_FINAL.pdf
+
+Initial bill submittal will occur after FY 2015 CMAQ funds are obligated. </administrative>
+    <alt-contact-email>monica.overby@soundtransit.org</alt-contact-email>
+    <alt-contact-first-name>Monica</alt-contact-first-name>
+    <alt-contact-last-name>Overby</alt-contact-last-name>
+    <alt-contact-phone>206-689-4979</alt-contact-phone>
+    <alt-contact-title>Grants Administrator</alt-contact-title>
+    <construction-complete type="boolean">false</construction-complete>
+    <construction-complete-on type="date">2017-12-31</construction-complete-on>
+    <construction-obligation-na type="boolean">false</construction-obligation-na>
+    <construction-obligation-on type="date">2015-06-01</construction-obligation-on>
+    <construction-remaining-work-to-completion>An RFP was issued in Feb 2013 for the Sounder locomotive engine overhaul project. In October 2013, Sound Transit contracted with Electro-motive Diesel, Inc. (EMD) to replace the original EMD engines with EPA-certified Tier 3 engines. Two engines were completed in 2014 and in January 2015 work on the next set of locomotives began.</construction-remaining-work-to-completion>
+    <contact-email>kirste.johnson@soundtransit.org</contact-email>
+    <contact-first-name>Kirste</contact-first-name>
+    <contact-last-name>Johnson</contact-last-name>
+    <contact-phone>206-398-5402</contact-phone>
+    <contact-title>Grants Specialist</contact-title>
+    <contract-awarded type="boolean">true</contract-awarded>
+    <contract-awarded-on type="date">2013-10-29</contract-awarded-on>
+    <created-at type="datetime">2015-02-20T11:40:15-08:00</created-at>
+    <delays nil="true"/>
+    <design-status type="integer">0</design-status>
+    <environmental-approval type="boolean">true</environmental-approval>
+    <environmental-approval-on type="date">2015-02-20</environmental-approval-on>
+    <estimate-changing type="boolean">true</estimate-changing>
+    <id type="integer">910</id>
+    <last-bill-submitted-na type="boolean">true</last-bill-submitted-na>
+    <last-bill-submitted-on type="date" nil="true"/>
+    <next-bill-submittal-na type="boolean">false</next-bill-submittal-na>
+    <next-bill-submittal-on type="date">2015-09-30</next-bill-submittal-on>
+    <on-schedule type="boolean">true</on-schedule>
+    <other-obligation-na type="boolean">false</other-obligation-na>
+    <other-obligation-on type="date" nil="true"/>
+    <pe-complete type="boolean" nil="true"/>
+    <pe-complete-on type="date" nil="true"/>
+    <pe-obligation-na type="boolean">true</pe-obligation-na>
+    <pe-obligation-on type="date" nil="true"/>
+    <pe-remaining-work-to-completion>Please note environmental document approval not applicable. This project is a NEPA
+Categorical Exclusion Type 07 because it rehabs rail rolling stock/vehicles within or
+accommodated by existing facilities, that does not result in a change in functional use of the facilities, such as: equipment to be located within existing facilities and with no substantial off-site impacts; and vehicles, including rail cars that can be accommodated by existing facilities or by new facilities that qualify for a categorical exclusion. Was not able to "reintroduce" the N/A box
+on the form. Input arbitrary date.</pe-remaining-work-to-completion>
+    <permits-and-agreements type="boolean" nil="true"/>
+    <permits-and-agreements-on type="date" nil="true"/>
+    <planning-funds-obligation-on type="date" nil="true"/>
+    <progress nil="true"/>
+    <project-advertised type="boolean" nil="true"/>
+    <project-advertised-on type="date" nil="true"/>
+    <project-type>capital_project</project-type>
+    <row-certification type="boolean" nil="true"/>
+    <row-certification-on type="date" nil="true"/>
+    <row-obligation-na type="boolean">true</row-obligation-na>
+    <row-obligation-on type="date" nil="true"/>
+    <row-remaining-work-to-completion></row-remaining-work-to-completion>
+    <sponsoring-agency-id type="integer">173</sponsoring-agency-id>
+    <stand-alone-remaining-work-to-completion nil="true"/>
+    <status>submitted</status>
+    <submitted-at type="datetime">2015-02-20T17:20:08-08:00</submitted-at>
+    <tip-id>RTA-83</tip-id>
+    <title>Sounder Vehicle Preservation and Maintenance Program</title>
+    <updated-at type="datetime">2015-02-20T17:20:08-08:00</updated-at>
+    <updated-estimate type="decimal">24301000.0</updated-estimate>
+    <user-id type="integer">2</user-id>
+  </progress-report>
+  <progress-report>
+    <accepted-at type="datetime" nil="true"/>
+    <administrative>Initial bill submittal will occur after FY 2017 5307 funds are obligated.</administrative>
+    <alt-contact-email>monica.overby@soundtransit.org</alt-contact-email>
+    <alt-contact-first-name>Monica</alt-contact-first-name>
+    <alt-contact-last-name>Overby</alt-contact-last-name>
+    <alt-contact-phone>206-689-4979</alt-contact-phone>
+    <alt-contact-title>Grants Administrator</alt-contact-title>
+    <construction-complete type="boolean">false</construction-complete>
+    <construction-complete-on type="date">2023-09-22</construction-complete-on>
+    <construction-obligation-na type="boolean">true</construction-obligation-na>
+    <construction-obligation-on type="date" nil="true"/>
+    <construction-remaining-work-to-completion></construction-remaining-work-to-completion>
+    <contact-email>kirste.johnson@soundtransit.org</contact-email>
+    <contact-first-name>Kirste</contact-first-name>
+    <contact-last-name>Johnson</contact-last-name>
+    <contact-phone>206-398-5402</contact-phone>
+    <contact-title>Grants Specialist</contact-title>
+    <contract-awarded type="boolean" nil="true"/>
+    <contract-awarded-on type="date" nil="true"/>
+    <created-at type="datetime">2015-02-20T11:07:19-08:00</created-at>
+    <delays nil="true"/>
+    <design-status type="integer">0</design-status>
+    <environmental-approval type="boolean">false</environmental-approval>
+    <environmental-approval-on type="date">2016-10-31</environmental-approval-on>
+    <estimate-changing type="boolean">false</estimate-changing>
+    <id type="integer">904</id>
+    <last-bill-submitted-na type="boolean">true</last-bill-submitted-na>
+    <last-bill-submitted-on type="date" nil="true"/>
+    <next-bill-submittal-na type="boolean">false</next-bill-submittal-na>
+    <next-bill-submittal-on type="date">2017-09-30</next-bill-submittal-on>
+    <on-schedule type="boolean">true</on-schedule>
+    <other-obligation-na type="boolean">false</other-obligation-na>
+    <other-obligation-on type="date" nil="true"/>
+    <pe-complete type="boolean">false</pe-complete>
+    <pe-complete-on type="date">2016-10-31</pe-complete-on>
+    <pe-obligation-na type="boolean">true</pe-obligation-na>
+    <pe-obligation-on type="date" nil="true"/>
+    <pe-remaining-work-to-completion>Continue to prepare Draft EIS for publication second quarter 2015. Finalize EIS and preliminary engineering, including an environmental determination (ROD) late 2016.</pe-remaining-work-to-completion>
+    <permits-and-agreements type="boolean" nil="true"/>
+    <permits-and-agreements-on type="date" nil="true"/>
+    <planning-funds-obligation-on type="date" nil="true"/>
+    <progress nil="true"/>
+    <project-advertised type="boolean" nil="true"/>
+    <project-advertised-on type="date" nil="true"/>
+    <project-type>capital_project</project-type>
+    <row-certification type="boolean" nil="true"/>
+    <row-certification-on type="date" nil="true"/>
+    <row-obligation-na type="boolean">false</row-obligation-na>
+    <row-obligation-on type="date">2017-06-01</row-obligation-on>
+    <row-remaining-work-to-completion>Continue to prepare Draft EIS for publication second quarter 2015. Finalize preliminary engineering. NEPA Record of Decision expected from FTA mid-2016. Initiate ROW phase November 2016.</row-remaining-work-to-completion>
+    <sponsoring-agency-id type="integer">173</sponsoring-agency-id>
+    <stand-alone-remaining-work-to-completion nil="true"/>
+    <status>submitted</status>
+    <submitted-at type="datetime">2015-02-20T17:10:15-08:00</submitted-at>
+    <tip-id>RTA-82A</tip-id>
+    <title>S 200th to Highline CC Extension</title>
+    <updated-at type="datetime">2015-02-20T17:10:15-08:00</updated-at>
+    <updated-estimate type="decimal" nil="true"/>
+    <user-id type="integer">2</user-id>
+  </progress-report>
+  <progress-report>
+    <accepted-at type="datetime" nil="true"/>
+    <administrative></administrative>
+    <alt-contact-email></alt-contact-email>
+    <alt-contact-first-name></alt-contact-first-name>
+    <alt-contact-last-name></alt-contact-last-name>
+    <alt-contact-phone></alt-contact-phone>
+    <alt-contact-title></alt-contact-title>
+    <construction-complete type="boolean">false</construction-complete>
+    <construction-complete-on type="date">2018-09-28</construction-complete-on>
+    <construction-obligation-na type="boolean">true</construction-obligation-na>
+    <construction-obligation-on type="date" nil="true"/>
+    <construction-remaining-work-to-completion>Construction funds have not been acquired.</construction-remaining-work-to-completion>
+    <contact-email>nbarnett@ci.lynnwood.wa.us</contact-email>
+    <contact-first-name>Nicholas</contact-first-name>
+    <contact-last-name>Barnett</contact-last-name>
+    <contact-phone>425 670-5211</contact-phone>
+    <contact-title>Project Manager</contact-title>
+    <contract-awarded type="boolean" nil="true"/>
+    <contract-awarded-on type="date" nil="true"/>
+    <created-at type="datetime">2015-02-19T16:52:20-08:00</created-at>
+    <delays nil="true"/>
+    <design-status type="integer">60</design-status>
+    <environmental-approval type="boolean">true</environmental-approval>
+    <environmental-approval-on type="date">2015-02-01</environmental-approval-on>
+    <estimate-changing type="boolean">false</estimate-changing>
+    <id type="integer">893</id>
+    <last-bill-submitted-na type="boolean">false</last-bill-submitted-na>
+    <last-bill-submitted-on type="date">2014-12-26</last-bill-submitted-on>
+    <next-bill-submittal-na type="boolean">false</next-bill-submittal-na>
+    <next-bill-submittal-on type="date">2015-03-15</next-bill-submittal-on>
+    <on-schedule type="boolean">true</on-schedule>
+    <other-obligation-na type="boolean">false</other-obligation-na>
+    <other-obligation-on type="date" nil="true"/>
+    <pe-complete type="boolean">false</pe-complete>
+    <pe-complete-on type="date">2015-10-09</pe-complete-on>
+    <pe-obligation-na type="boolean">false</pe-obligation-na>
+    <pe-obligation-on type="date">2014-06-11</pe-obligation-on>
+    <pe-remaining-work-to-completion>90% design needs to be completed with review.
+100% design needs to be completed with review.
+Ad ready plans, specifications and estimate needs to be completed.</pe-remaining-work-to-completion>
+    <permits-and-agreements type="boolean" nil="true"/>
+    <permits-and-agreements-on type="date" nil="true"/>
+    <planning-funds-obligation-on type="date" nil="true"/>
+    <progress nil="true"/>
+    <project-advertised type="boolean" nil="true"/>
+    <project-advertised-on type="date" nil="true"/>
+    <project-type>capital_project</project-type>
+    <row-certification type="boolean">false</row-certification>
+    <row-certification-on type="date">2016-12-30</row-certification-on>
+    <row-obligation-na type="boolean">false</row-obligation-na>
+    <row-obligation-on type="date">2015-07-01</row-obligation-on>
+    <row-remaining-work-to-completion>Acquire right-of-way per plans.
+Receive ROW certification from WSDOT.</row-remaining-work-to-completion>
+    <sponsoring-agency-id type="integer">58</sponsoring-agency-id>
+    <stand-alone-remaining-work-to-completion nil="true"/>
+    <status>submitted</status>
+    <submitted-at type="datetime">2015-02-20T16:14:49-08:00</submitted-at>
+    <tip-id>LYN-38</tip-id>
+    <title>Poplar Way Extension Bridge</title>
+    <updated-at type="datetime">2015-02-20T16:14:49-08:00</updated-at>
+    <updated-estimate type="decimal" nil="true"/>
+    <user-id type="integer">5</user-id>
+  </progress-report>
+  <progress-report>
+    <accepted-at type="datetime" nil="true"/>
+    <administrative>Bill submittal will occur after FY 2015 CMAQ funds are obligated. Updated total estimated project cost comes from ST's 2015 TIP: http://www.soundtransit.org/Documents/pdf/about/financial/20140925_Proposed%202015_TIP_FINAL.pdf</administrative>
+    <alt-contact-email>monica.overby@soundtransit.org</alt-contact-email>
+    <alt-contact-first-name>Monica</alt-contact-first-name>
+    <alt-contact-last-name>Overby</alt-contact-last-name>
+    <alt-contact-phone>206-689-4979</alt-contact-phone>
+    <alt-contact-title>Grants Administrator</alt-contact-title>
+    <construction-complete type="boolean">false</construction-complete>
+    <construction-complete-on type="date">2020-12-31</construction-complete-on>
+    <construction-obligation-na type="boolean">true</construction-obligation-na>
+    <construction-obligation-on type="date" nil="true"/>
+    <construction-remaining-work-to-completion></construction-remaining-work-to-completion>
+    <contact-email>kirste.johnson@soundtransit.org</contact-email>
+    <contact-first-name>Kirste</contact-first-name>
+    <contact-last-name>Johnson</contact-last-name>
+    <contact-phone>206-398-5402</contact-phone>
+    <contact-title>Grants Specialist</contact-title>
+    <contract-awarded type="boolean" nil="true"/>
+    <contract-awarded-on type="date" nil="true"/>
+    <created-at type="datetime">2015-02-19T15:18:03-08:00</created-at>
+    <delays nil="true"/>
+    <design-status type="integer">0</design-status>
+    <environmental-approval type="boolean">false</environmental-approval>
+    <environmental-approval-on type="date">2015-03-31</environmental-approval-on>
+    <estimate-changing type="boolean">true</estimate-changing>
+    <id type="integer">890</id>
+    <last-bill-submitted-na type="boolean">true</last-bill-submitted-na>
+    <last-bill-submitted-on type="date" nil="true"/>
+    <next-bill-submittal-na type="boolean">false</next-bill-submittal-na>
+    <next-bill-submittal-on type="date">2015-12-31</next-bill-submittal-on>
+    <on-schedule type="boolean">true</on-schedule>
+    <other-obligation-na type="boolean">false</other-obligation-na>
+    <other-obligation-on type="date" nil="true"/>
+    <pe-complete type="boolean">false</pe-complete>
+    <pe-complete-on type="date">2015-12-31</pe-complete-on>
+    <pe-obligation-na type="boolean">true</pe-obligation-na>
+    <pe-obligation-on type="date" nil="true"/>
+    <pe-remaining-work-to-completion></pe-remaining-work-to-completion>
+    <permits-and-agreements type="boolean" nil="true"/>
+    <permits-and-agreements-on type="date" nil="true"/>
+    <planning-funds-obligation-on type="date" nil="true"/>
+    <progress nil="true"/>
+    <project-advertised type="boolean" nil="true"/>
+    <project-advertised-on type="date" nil="true"/>
+    <project-type>capital_project</project-type>
+    <row-certification type="boolean">false</row-certification>
+    <row-certification-on type="date">2017-09-29</row-certification-on>
+    <row-obligation-na type="boolean">false</row-obligation-na>
+    <row-obligation-on type="date">2015-06-01</row-obligation-on>
+    <row-remaining-work-to-completion>Finalize environmental review and conceptual design.</row-remaining-work-to-completion>
+    <sponsoring-agency-id type="integer">173</sponsoring-agency-id>
+    <stand-alone-remaining-work-to-completion nil="true"/>
+    <status>submitted</status>
+    <submitted-at type="datetime">2015-02-20T17:00:38-08:00</submitted-at>
+    <tip-id>RTA-81</tip-id>
+    <title>Tacoma Link Expansion Project</title>
+    <updated-at type="datetime">2015-02-20T17:00:38-08:00</updated-at>
+    <updated-estimate type="decimal">131267000.0</updated-estimate>
+    <user-id type="integer">2</user-id>
+  </progress-report>
+  <progress-report>
+    <accepted-at type="datetime" nil="true"/>
+    <administrative>Initial bill submittal will occur after FY 2015 5307 funds are obligated.</administrative>
+    <alt-contact-email>monica.overby@soundtransit.org</alt-contact-email>
+    <alt-contact-first-name>Monica</alt-contact-first-name>
+    <alt-contact-last-name>Overby</alt-contact-last-name>
+    <alt-contact-phone>206-689-4979</alt-contact-phone>
+    <alt-contact-title>Grants Administrator</alt-contact-title>
+    <construction-complete type="boolean">false</construction-complete>
+    <construction-complete-on type="date">2016-09-30</construction-complete-on>
+    <construction-obligation-na type="boolean">false</construction-obligation-na>
+    <construction-obligation-on type="date">2015-09-01</construction-obligation-on>
+    <construction-remaining-work-to-completion>The award completion date reflects the date the design/build contract was awarded. Continue construction of guideway spans, station superstructure, and parking garage. </construction-remaining-work-to-completion>
+    <contact-email>kirste.johnson@soundtransit.org</contact-email>
+    <contact-first-name>Kirste</contact-first-name>
+    <contact-last-name>Johnson</contact-last-name>
+    <contact-phone>206-398-5402</contact-phone>
+    <contact-title>Grants Specialist</contact-title>
+    <contract-awarded type="boolean">true</contract-awarded>
+    <contract-awarded-on type="date">2012-08-25</contract-awarded-on>
+    <created-at type="datetime">2015-02-18T16:47:45-08:00</created-at>
+    <delays nil="true"/>
+    <design-status type="integer">100</design-status>
+    <environmental-approval type="boolean">true</environmental-approval>
+    <environmental-approval-on type="date">2005-09-13</environmental-approval-on>
+    <estimate-changing type="boolean">false</estimate-changing>
+    <id type="integer">864</id>
+    <last-bill-submitted-na type="boolean">true</last-bill-submitted-na>
+    <last-bill-submitted-on type="date" nil="true"/>
+    <next-bill-submittal-na type="boolean">false</next-bill-submittal-na>
+    <next-bill-submittal-on type="date">2015-12-31</next-bill-submittal-on>
+    <on-schedule type="boolean">true</on-schedule>
+    <other-obligation-na type="boolean">false</other-obligation-na>
+    <other-obligation-on type="date" nil="true"/>
+    <pe-complete type="boolean">true</pe-complete>
+    <pe-complete-on type="date">2005-05-01</pe-complete-on>
+    <pe-obligation-na type="boolean">true</pe-obligation-na>
+    <pe-obligation-on type="date" nil="true"/>
+    <pe-remaining-work-to-completion></pe-remaining-work-to-completion>
+    <permits-and-agreements type="boolean" nil="true"/>
+    <permits-and-agreements-on type="date" nil="true"/>
+    <planning-funds-obligation-on type="date" nil="true"/>
+    <progress nil="true"/>
+    <project-advertised type="boolean" nil="true"/>
+    <project-advertised-on type="date" nil="true"/>
+    <project-type>capital_project</project-type>
+    <row-certification type="boolean" nil="true"/>
+    <row-certification-on type="date" nil="true"/>
+    <row-obligation-na type="boolean">true</row-obligation-na>
+    <row-obligation-on type="date" nil="true"/>
+    <row-remaining-work-to-completion></row-remaining-work-to-completion>
+    <sponsoring-agency-id type="integer">173</sponsoring-agency-id>
+    <stand-alone-remaining-work-to-completion nil="true"/>
+    <status>submitted</status>
+    <submitted-at type="datetime">2015-02-20T16:51:00-08:00</submitted-at>
+    <tip-id>RTA-77</tip-id>
+    <title>S. 200th Link Extension</title>
+    <updated-at type="datetime">2015-02-20T16:51:00-08:00</updated-at>
+    <updated-estimate type="decimal" nil="true"/>
+    <user-id type="integer">2</user-id>
+  </progress-report>
+  <progress-report>
+    <accepted-at type="datetime" nil="true"/>
+    <administrative>Initial bill submittal will occur after FY 2015 5307 funds are obligated. </administrative>
+    <alt-contact-email>monica.overby@soundtransit.org</alt-contact-email>
+    <alt-contact-first-name>Monica</alt-contact-first-name>
+    <alt-contact-last-name>Overby</alt-contact-last-name>
+    <alt-contact-phone>2066894979</alt-contact-phone>
+    <alt-contact-title>Grants Administrator</alt-contact-title>
+    <construction-complete type="boolean">false</construction-complete>
+    <construction-complete-on type="date">2017-12-31</construction-complete-on>
+    <construction-obligation-na type="boolean">false</construction-obligation-na>
+    <construction-obligation-on type="date">2015-09-01</construction-obligation-on>
+    <construction-remaining-work-to-completion>Preventive maintenance is ongoing and will continue throughout the 2015-2018 TIP timeframe.</construction-remaining-work-to-completion>
+    <contact-email>kirste.johnson@soundtransit.org</contact-email>
+    <contact-first-name>Kirste</contact-first-name>
+    <contact-last-name>Johnson</contact-last-name>
+    <contact-phone>2063985402</contact-phone>
+    <contact-title>Grants Specialist</contact-title>
+    <contract-awarded type="boolean" nil="true"/>
+    <contract-awarded-on type="date" nil="true"/>
+    <created-at type="datetime">2015-02-13T14:46:37-08:00</created-at>
+    <delays nil="true"/>
+    <design-status type="integer">0</design-status>
+    <environmental-approval type="boolean">true</environmental-approval>
+    <environmental-approval-on type="date">2009-12-29</environmental-approval-on>
+    <estimate-changing type="boolean">false</estimate-changing>
+    <id type="integer">807</id>
+    <last-bill-submitted-na type="boolean">true</last-bill-submitted-na>
+    <last-bill-submitted-on type="date" nil="true"/>
+    <next-bill-submittal-na type="boolean">false</next-bill-submittal-na>
+    <next-bill-submittal-on type="date">2015-12-31</next-bill-submittal-on>
+    <on-schedule type="boolean">true</on-schedule>
+    <other-obligation-na type="boolean">false</other-obligation-na>
+    <other-obligation-on type="date" nil="true"/>
+    <pe-complete type="boolean" nil="true"/>
+    <pe-complete-on type="date" nil="true"/>
+    <pe-obligation-na type="boolean">true</pe-obligation-na>
+    <pe-obligation-on type="date" nil="true"/>
+    <pe-remaining-work-to-completion></pe-remaining-work-to-completion>
+    <permits-and-agreements type="boolean" nil="true"/>
+    <permits-and-agreements-on type="date" nil="true"/>
+    <planning-funds-obligation-on type="date" nil="true"/>
+    <progress nil="true"/>
+    <project-advertised type="boolean" nil="true"/>
+    <project-advertised-on type="date" nil="true"/>
+    <project-type>capital_project</project-type>
+    <row-certification type="boolean" nil="true"/>
+    <row-certification-on type="date" nil="true"/>
+    <row-obligation-na type="boolean">true</row-obligation-na>
+    <row-obligation-on type="date" nil="true"/>
+    <row-remaining-work-to-completion></row-remaining-work-to-completion>
+    <sponsoring-agency-id type="integer">173</sponsoring-agency-id>
+    <stand-alone-remaining-work-to-completion nil="true"/>
+    <status>submitted</status>
+    <submitted-at type="datetime">2015-02-20T16:49:57-08:00</submitted-at>
+    <tip-id>RTA-5</tip-id>
+    <title>Regional Express Bus Procurement Program</title>
+    <updated-at type="datetime">2015-02-20T16:49:57-08:00</updated-at>
+    <updated-estimate type="decimal" nil="true"/>
+    <user-id type="integer">2</user-id>
+  </progress-report>
+  <progress-report>
+    <accepted-at type="datetime" nil="true"/>
+    <administrative>Next bill submittal will occur after FY 2015 5307 funds are obligated. </administrative>
+    <alt-contact-email>monica.overby@soundtransit.org</alt-contact-email>
+    <alt-contact-first-name>Monica</alt-contact-first-name>
+    <alt-contact-last-name>Overby</alt-contact-last-name>
+    <alt-contact-phone>2066894979</alt-contact-phone>
+    <alt-contact-title>Grants Administrator</alt-contact-title>
+    <construction-complete type="boolean">true</construction-complete>
+    <construction-complete-on type="date">2013-07-01</construction-complete-on>
+    <construction-obligation-na type="boolean">true</construction-obligation-na>
+    <construction-obligation-on type="date" nil="true"/>
+    <construction-remaining-work-to-completion></construction-remaining-work-to-completion>
+    <contact-email>kirste.johnson@soundtransit.org</contact-email>
+    <contact-first-name>Kirste</contact-first-name>
+    <contact-last-name>Johnson</contact-last-name>
+    <contact-phone>2063985402</contact-phone>
+    <contact-title>Grants Specialist</contact-title>
+    <contract-awarded type="boolean">true</contract-awarded>
+    <contract-awarded-on type="date">2013-07-01</contract-awarded-on>
+    <created-at type="datetime">2015-02-13T14:13:19-08:00</created-at>
+    <delays nil="true"/>
+    <design-status type="integer">0</design-status>
+    <environmental-approval type="boolean">true</environmental-approval>
+    <environmental-approval-on type="date">2009-11-04</environmental-approval-on>
+    <estimate-changing type="boolean">false</estimate-changing>
+    <id type="integer">806</id>
+    <last-bill-submitted-na type="boolean">true</last-bill-submitted-na>
+    <last-bill-submitted-on type="date" nil="true"/>
+    <next-bill-submittal-na type="boolean">false</next-bill-submittal-na>
+    <next-bill-submittal-on type="date">2015-09-30</next-bill-submittal-on>
+    <on-schedule type="boolean">true</on-schedule>
+    <other-obligation-na type="boolean">false</other-obligation-na>
+    <other-obligation-on type="date" nil="true"/>
+    <pe-complete type="boolean" nil="true"/>
+    <pe-complete-on type="date" nil="true"/>
+    <pe-obligation-na type="boolean">true</pe-obligation-na>
+    <pe-obligation-on type="date" nil="true"/>
+    <pe-remaining-work-to-completion></pe-remaining-work-to-completion>
+    <permits-and-agreements type="boolean" nil="true"/>
+    <permits-and-agreements-on type="date" nil="true"/>
+    <planning-funds-obligation-on type="date" nil="true"/>
+    <progress nil="true"/>
+    <project-advertised type="boolean" nil="true"/>
+    <project-advertised-on type="date" nil="true"/>
+    <project-type>capital_project</project-type>
+    <row-certification type="boolean">true</row-certification>
+    <row-certification-on type="date">2013-07-01</row-certification-on>
+    <row-obligation-na type="boolean">false</row-obligation-na>
+    <row-obligation-on type="date">2015-09-01</row-obligation-on>
+    <row-remaining-work-to-completion>This project is complete. All easements have been purchased.</row-remaining-work-to-completion>
+    <sponsoring-agency-id type="integer">173</sponsoring-agency-id>
+    <stand-alone-remaining-work-to-completion nil="true"/>
+    <status>submitted</status>
+    <submitted-at type="datetime">2015-02-20T16:49:14-08:00</submitted-at>
+    <tip-id>RTA-4B</tip-id>
+    <title>Commuter Rail Project: Seattle to Lakewood</title>
+    <updated-at type="datetime">2015-02-20T16:49:14-08:00</updated-at>
+    <updated-estimate type="decimal" nil="true"/>
+    <user-id type="integer">2</user-id>
+  </progress-report>
+  <progress-report>
+    <accepted-at type="datetime" nil="true"/>
+    <administrative>Initial bill submittal will occur after FY 2015 5307 funds are obligated. </administrative>
+    <alt-contact-email>monica.overby@soundtransit.org</alt-contact-email>
+    <alt-contact-first-name>Monica</alt-contact-first-name>
+    <alt-contact-last-name>Overby</alt-contact-last-name>
+    <alt-contact-phone>2066894979</alt-contact-phone>
+    <alt-contact-title>Grants Administrator</alt-contact-title>
+    <construction-complete type="boolean">false</construction-complete>
+    <construction-complete-on type="date">2021-09-30</construction-complete-on>
+    <construction-obligation-na type="boolean">false</construction-obligation-na>
+    <construction-obligation-on type="date">2015-09-01</construction-obligation-on>
+    <construction-remaining-work-to-completion>There are multiple construction packages for this project with varying ad and award dates. September 2013 was when the first construction package (N125) was awarded for tunneling. Mining crews continue to make good progress on the twin tunnels between the Maple Leaf portal and the Roosevelt Station construction site. The tunnel boring machine working on the northbound tunnel has traveled about 4700 feet to about NE 78th Street. The TBM building the southbound tunnel has travelled more than 260 feet to approximately NE 92nd Street.
+
+ </construction-remaining-work-to-completion>
+    <contact-email>kirste.johnson@soundtransit.org</contact-email>
+    <contact-first-name>Kirste</contact-first-name>
+    <contact-last-name>Johnson</contact-last-name>
+    <contact-phone>2063985402</contact-phone>
+    <contact-title>Grants Specialist</contact-title>
+    <contract-awarded type="boolean">true</contract-awarded>
+    <contract-awarded-on type="date">2013-09-30</contract-awarded-on>
+    <created-at type="datetime">2015-02-13T13:32:07-08:00</created-at>
+    <delays nil="true"/>
+    <design-status type="integer">100</design-status>
+    <environmental-approval type="boolean">true</environmental-approval>
+    <environmental-approval-on type="date">2006-06-07</environmental-approval-on>
+    <estimate-changing type="boolean">false</estimate-changing>
+    <id type="integer">805</id>
+    <last-bill-submitted-na type="boolean">true</last-bill-submitted-na>
+    <last-bill-submitted-on type="date" nil="true"/>
+    <next-bill-submittal-na type="boolean">false</next-bill-submittal-na>
+    <next-bill-submittal-on type="date">2015-09-30</next-bill-submittal-on>
+    <on-schedule type="boolean">true</on-schedule>
+    <other-obligation-na type="boolean">false</other-obligation-na>
+    <other-obligation-on type="date" nil="true"/>
+    <pe-complete type="boolean">true</pe-complete>
+    <pe-complete-on type="date">2010-04-19</pe-complete-on>
+    <pe-obligation-na type="boolean">true</pe-obligation-na>
+    <pe-obligation-on type="date" nil="true"/>
+    <pe-remaining-work-to-completion></pe-remaining-work-to-completion>
+    <permits-and-agreements type="boolean" nil="true"/>
+    <permits-and-agreements-on type="date" nil="true"/>
+    <planning-funds-obligation-on type="date" nil="true"/>
+    <progress nil="true"/>
+    <project-advertised type="boolean" nil="true"/>
+    <project-advertised-on type="date" nil="true"/>
+    <project-type>capital_project</project-type>
+    <row-certification type="boolean">true</row-certification>
+    <row-certification-on type="date">2013-02-28</row-certification-on>
+    <row-obligation-na type="boolean">true</row-obligation-na>
+    <row-obligation-on type="date" nil="true"/>
+    <row-remaining-work-to-completion></row-remaining-work-to-completion>
+    <sponsoring-agency-id type="integer">173</sponsoring-agency-id>
+    <stand-alone-remaining-work-to-completion nil="true"/>
+    <status>submitted</status>
+    <submitted-at type="datetime">2015-02-20T16:44:09-08:00</submitted-at>
+    <tip-id>RTA-3A</tip-id>
+    <title>Northgate Link</title>
+    <updated-at type="datetime">2015-02-20T16:44:09-08:00</updated-at>
+    <updated-estimate type="decimal" nil="true"/>
+    <user-id type="integer">2</user-id>
+  </progress-report>
+  <progress-report>
+    <accepted-at type="datetime" nil="true"/>
+    <administrative></administrative>
+    <alt-contact-email>jcowling@marysvillewa.gov</alt-contact-email>
+    <alt-contact-first-name>John </alt-contact-first-name>
+    <alt-contact-last-name>Cowling</alt-contact-last-name>
+    <alt-contact-phone>(360) 363-8281</alt-contact-phone>
+    <alt-contact-title nil="true"/>
+    <construction-complete type="boolean">false</construction-complete>
+    <construction-complete-on type="date">2015-08-31</construction-complete-on>
+    <construction-obligation-na type="boolean">false</construction-obligation-na>
+    <construction-obligation-on type="date">2015-04-30</construction-obligation-on>
+    <construction-remaining-work-to-completion nil="true"/>
+    <contact-email>jlaycock@marysvillewa.gov</contact-email>
+    <contact-first-name>Jeff</contact-first-name>
+    <contact-last-name>Laycock</contact-last-name>
+    <contact-phone>(360) 363-8274</contact-phone>
+    <contact-title nil="true"/>
+    <contract-awarded type="boolean">false</contract-awarded>
+    <contract-awarded-on type="date">2015-05-26</contract-awarded-on>
+    <created-at type="datetime">2015-02-09T10:25:42-08:00</created-at>
+    <delays>N/A</delays>
+    <design-status type="integer">30</design-status>
+    <environmental-approval type="boolean">false</environmental-approval>
+    <environmental-approval-on type="date">2015-03-31</environmental-approval-on>
+    <estimate-changing type="boolean">false</estimate-changing>
+    <id type="integer">752</id>
+    <last-bill-submitted-na type="boolean" nil="true"/>
+    <last-bill-submitted-on type="date" nil="true"/>
+    <next-bill-submittal-na type="boolean" nil="true"/>
+    <next-bill-submittal-on type="date" nil="true"/>
+    <on-schedule type="boolean" nil="true"/>
+    <other-obligation-na type="boolean">true</other-obligation-na>
+    <other-obligation-on type="date" nil="true"/>
+    <pe-complete type="boolean">false</pe-complete>
+    <pe-complete-on type="date">2015-03-31</pe-complete-on>
+    <pe-obligation-na type="boolean">true</pe-obligation-na>
+    <pe-obligation-on type="date" nil="true"/>
+    <pe-remaining-work-to-completion nil="true"/>
+    <permits-and-agreements type="boolean" nil="true"/>
+    <permits-and-agreements-on type="date" nil="true"/>
+    <planning-funds-obligation-on type="date" nil="true"/>
+    <progress>Survey and design underway, NEPA started, LA agreement and Prospectus signed.</progress>
+    <project-advertised type="boolean" nil="true"/>
+    <project-advertised-on type="date" nil="true"/>
+    <project-type nil="true"/>
+    <row-certification type="boolean" nil="true"/>
+    <row-certification-on type="date" nil="true"/>
+    <row-obligation-na type="boolean">true</row-obligation-na>
+    <row-obligation-on type="date" nil="true"/>
+    <row-remaining-work-to-completion nil="true"/>
+    <sponsoring-agency-id type="integer">60</sponsoring-agency-id>
+    <stand-alone-remaining-work-to-completion nil="true"/>
+    <status>submitted</status>
+    <submitted-at type="datetime">2015-02-09T10:31:08-08:00</submitted-at>
+    <tip-id>MAR-23</tip-id>
+    <title>67th Avenue Overlay</title>
+    <updated-at type="datetime">2015-02-09T10:31:08-08:00</updated-at>
+    <updated-estimate type="decimal" nil="true"/>
+    <user-id type="integer">63</user-id>
+  </progress-report>
+</progress-reports>
