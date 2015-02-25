@@ -1,5 +1,5 @@
 class MyClass
-  def method1
+  def self.method1
     puts "hello"
   end
   
